@@ -2,7 +2,7 @@
 
 End-to-end retail sales analytics project using **SQL Server** and **Power BI** to transform a multi-year star-schema dataset into reproducible analysis, customer/product segmentation, time-intelligence metrics, and an interactive business dashboard.
 
-> **Live Interactive Dashboard:** Power BI Service link will be added after publication.
+> **[View Live Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM2MDVlODgtNDkzOC00YzYzLTlkODgtMWQwZTRmMGFjYTZhIiwidCI6ImM3MzNiYzhmLWMwODYtNGFhYS05YmQ4LTZiZjZhMTRiYWJjMSJ9)**
 
 ## Dashboard Preview
 
